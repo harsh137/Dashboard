@@ -95,7 +95,7 @@ const LoginPage = () => {
         
 
         <div className="text-sm flex justify-between items-center mt-3">
-          <p className='text-[#002D74]'  >If you don't have an account...</p>
+          <p className='text-[#002D74]'  >If you dont have an account...</p>
           <button onClick={handleRegister} className= "  text-black  py-2 px-5 ml-3 bg-white border rounded-xl hover:scale-110 duration-300 border-blue-400  ">Register</button>
         </div>
       </div>
