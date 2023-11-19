@@ -5,7 +5,7 @@ import Navbar from '@/components/Navbar'
 
 
 
-function page() {
+function DashBoard() {
 
   const generateRandomUID = () => {
     return Math.floor(100000 + Math.random() * 900000);
@@ -249,4 +249,4 @@ function page() {
   )
 }
 
-export default page
+export default DashBoard
